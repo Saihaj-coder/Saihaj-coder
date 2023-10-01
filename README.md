@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saihajpreet Singh</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
+<img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saihaj-coder&label=Profile%20views&color=0e75b6&style=flat" alt="saihaj-coder" /> </p>
 
