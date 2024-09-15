@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saihaj-coder&label=Profile%20views&color=0e75b6&style=flat" alt="saihaj-coder" /> </p>
 
-- 💻 Ask me about **Machine Learning, Deep Learning**
+- 💻 Ask me about **Machine Learning, Deep Learning, Computer Vision, NLP**
 
 - ⚡ Fun fact **I am funny😅**
 
